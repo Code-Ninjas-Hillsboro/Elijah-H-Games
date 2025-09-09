@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EH - ShapesThatArentSuper",
+"productVersion": "0.1",
+"dataUrl": "ShapesThatArentSuper.data.unityweb",
+"wasmCodeUrl": "ShapesThatArentSuper.wasm.code.unityweb",
+"wasmFrameworkUrl": "ShapesThatArentSuper.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
